@@ -202,7 +202,9 @@
     <Compile Include="Assets\HTC.UnityPlugin\ViveInputUtility\Scripts\ViveRole\ViveRoleProperty.cs" />
     <Compile Include="Assets\HTC.UnityPlugin\ViveInputUtility\Scripts\ViveRole\ViveRoleSetter.cs" />
     <Compile Include="Assets\Scripts\AnimatorControl.cs" />
+    <Compile Include="Assets\Scripts\AudioC.cs" />
     <Compile Include="Assets\Scripts\AudioControl.cs" />
+    <Compile Include="Assets\Scripts\AudioSetting.cs" />
     <Compile Include="Assets\Scripts\LoadManager.cs" />
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
     <Compile Include="Assets\Scripts\ProjectControl.cs" />
