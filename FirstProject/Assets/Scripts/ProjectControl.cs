@@ -11,8 +11,7 @@ public class ProjectControl:MonoBehaviour
     public GameObject AfterPanel;
     private void Start()
     {
-        CloseInterface();
-        ShowInterface();
+       
     }
     public void CloseInterface()
     {

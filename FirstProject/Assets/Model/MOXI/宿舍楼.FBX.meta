@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: c7f25a403a5e6b744af62ecdfe832d03
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Block:tyc00
+    100002: Line100
+    100004: Line128
+    100006: Line142
+    100008: Line180
+    100010: Line25
+    100012: Line41
+    100014: Rectangle78
+    100016: Rectangle79
+    100018: Rectangle80
+    100020: Rectangle81
+    100022: Rectangle82
+    100024: Rectangle83
+    100026: ssl
+    100028: ssl00
+    100030: ssl01
+    100032: ssl02
+    100034: ssl03
+    100036: ssl04
+    100038: ssl05
+    100040: ssl06
+    100042: ssl07
+    100044: ssl08
+    100046: ssl09
+    100048: ssl10
+    100050: ssl11
+    100052: ssl12
+    100054: ssl13
+    100056: ssl14
+    100058: ssl15
+    100060: ssl16
+    100062: ssl17
+    100064: ssl18
+    100066: ssl19
+    100068: ssl20
+    100070: ssl21
+    100072: ssl22
+    100074: ssl23
+    100076: ssl24
+    100078: //RootNode
+    400000: Block:tyc00
+    400002: Line100
+    400004: Line128
+    400006: Line142
+    400008: Line180
+    400010: Line25
+    400012: Line41
+    400014: Rectangle78
+    400016: Rectangle79
+    400018: Rectangle80
+    400020: Rectangle81
+    400022: Rectangle82
+    400024: Rectangle83
+    400026: ssl
+    400028: ssl00
+    400030: ssl01
+    400032: ssl02
+    400034: ssl03
+    400036: ssl04
+    400038: ssl05
+    400040: ssl06
+    400042: ssl07
+    400044: ssl08
+    400046: ssl09
+    400048: ssl10
+    400050: ssl11
+    400052: ssl12
+    400054: ssl13
+    400056: ssl14
+    400058: ssl15
+    400060: ssl16
+    400062: ssl17
+    400064: ssl18
+    400066: ssl19
+    400068: ssl20
+    400070: ssl21
+    400072: ssl22
+    400074: ssl23
+    400076: ssl24
+    400078: //RootNode
+    2100000: "jz-\u73BB\u7483-llq"
+    2100002: "jz-\u680F\u6746"
+    2100004: 01 - Default
+    2100006: 03 - Default
+    2100008: 02 - Default
+    2100010: 04 - Default
+    2300000: ssl13
+    2300002: ssl14
+    2300004: ssl15
+    2300006: ssl16
+    2300008: ssl17
+    2300010: ssl18
+    2300012: ssl19
+    2300014: ssl20
+    2300016: ssl21
+    2300018: ssl22
+    2300020: ssl23
+    3300000: ssl13
+    3300002: ssl14
+    3300004: ssl15
+    3300006: ssl16
+    3300008: ssl17
+    3300010: ssl18
+    3300012: ssl19
+    3300014: ssl20
+    3300016: ssl21
+    3300018: ssl22
+    3300020: ssl23
+    4300000: ssl13
+    4300002: ssl14
+    4300004: ssl15
+    4300006: ssl16
+    4300008: ssl17
+    4300010: ssl18
+    4300012: ssl19
+    4300014: ssl20
+    4300016: ssl21
+    4300018: ssl22
+    4300020: ssl23
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

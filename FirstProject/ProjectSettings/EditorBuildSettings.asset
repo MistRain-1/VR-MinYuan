@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Startin.unity
+    guid: 73bba56324387bb4fa0db9e15d02e7ab
   - enabled: 1
-    path: Assets/2.unity
-    guid: 39d55c6d9d069024ba089639b24b74ee
+    path: Assets/Scenes/BanGongShi.unity
+    guid: 5977bb3dea683a34faf8689d2079ebf8
+  - enabled: 1
+    path: Assets/Scenes/ShaPan.unity
+    guid: 5ad4b2d770f166747b7c2020a23ae73e
   m_configObjects: {}
