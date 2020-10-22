@@ -1,1 +1,8 @@
 FirstProject/Library/
+FirstProject/Assembly-CSharp.csproj
+FirstProject/Assembly-CSharp-Editor.csproj
+FirstProject/SteamVR.csproj
+FirstProject/SteamVR_Editor.csproj
+FirstProject/SteamVR_Input_Editor.csproj
+FirstProject/SteamVR_Windows_EditorHelper.csproj
+FirstProject/ProjectSettings/ProjectSettings.asset
