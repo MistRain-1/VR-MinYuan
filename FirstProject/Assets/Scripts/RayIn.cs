@@ -24,7 +24,7 @@ public class RayIn : MonoBehaviour
             Debug.Log("射线检测到的物体名称: " + hit.transform.name);
             if (ViveInput.GetPressDownEx(HandRole.RightHand, ControllerButton.Trigger) && hit.transform.tag == "Build")
             {
-                JieShaoUI = hit.transform.FindChild("Canvas");
+                JieShaoUI = hit.transform.Find("Canvas");
                 if (JieShaoUI.gameObject.active == false)
                     JieShaoUI.gameObject.SetActive(true);
                 else
