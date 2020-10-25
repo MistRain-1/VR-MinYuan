@@ -7,6 +7,7 @@ using UnityEngine.Playables;
 public class RayIn : MonoBehaviour
 {
    Transform JieShaoUI;
+
     void Start()
     {
 
@@ -21,12 +22,17 @@ public class RayIn : MonoBehaviour
         {
 
             Debug.DrawLine(transform.position, hit.point, Color.red);
-            Debug.Log("射线检测到的物体名称: " + hit.transform.name);
+            //Debug.Log("射线检测到的物体名称: " + hit.transform.name);
             if (ViveInput.GetPressDownEx(HandRole.RightHand, ControllerButton.Trigger) && hit.transform.tag == "Build")
             {
+                
+                GetComponent<AudioControl>().AudioStart();
                 JieShaoUI = hit.transform.Find("Canvas");
-                if (JieShaoUI.gameObject.active == false)
+                if (JieShaoUI.gameObject.active==false)
+                {
                     JieShaoUI.gameObject.SetActive(true);
+                }
+
                 else
                     JieShaoUI.gameObject.SetActive(false);
             }

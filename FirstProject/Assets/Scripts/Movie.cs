@@ -24,7 +24,7 @@ public class Movie : MonoBehaviour
         rawImage = this.GetComponent<RawImage>();
         currentClipIndex = 0;
         //设置相关按钮监听事件
-        button_PlayOrPause.onClick.AddListener(OnPlayOrPauseVideo);
+        //button_PlayOrPause.onClick.AddListener(OnPlayOrPauseVideo);
     }
 
     // Update is called once per frame
